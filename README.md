@@ -1,4 +1,4 @@
-# Amazon-Clown
+# Amazon-Clone
 Front-end html css project
 Developed an interactive front end web application using HTML and CSS that emulates
 visually appealing user interface using flexbox etc. Implemented responsive design techniques to ensure
